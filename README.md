@@ -49,12 +49,13 @@ This project explores the operational impact of Plug-in Electric Vehicles (PEVs)
 
 ## 📑 Report Highlights
 
-- Analysis based on IEEE 5-bus test system
-- All case results validated with power flow, cost, and marginal cost outputs
-- Discussions on trade-offs between cost reduction vs system losses
-- Reactive marginal prices help locate voltage stress zones
+- Analysis based on IEEE 5-bus test system  
+- All case results validated with power flow, cost, and marginal cost outputs  
+- Discussions on trade-offs between cost reduction vs system losses  
+- Reactive marginal prices help locate voltage stress zones  
 
-📄 Full PDF report: [`ECE_666__Dafinny_Thanigaivel.pdf`](./ECE_666__Dafinny_Thanigaivel.pdf)
+📄 Full PDF report: [`ECE_666__Dafinny_Thanigaivel-5.pdf`](report/ECE_666__Dafinny_Thanigaivel-5.pdf)
+
 
 ---
 
